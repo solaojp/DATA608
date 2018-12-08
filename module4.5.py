@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  7 21:25:29 2018
-
-@author: GD
-"""
 
 from flask import Flask, jsonify, send_from_directory, render_template
 import pandas as pd
